@@ -1,0 +1,145 @@
+@media all and (max-width: 1200px) {
+    .section_4_margin {
+        margin-left: 0;
+    }
+}
+
+@media all and (max-width: 1100px) {
+    .top .left, .top .right {
+        float: none;
+        text-align: center;
+        padding-bottom: 10px;
+    }
+}
+
+@media all and (max-width: 960px) {
+    .header_li {
+        padding-right: 0;
+        width: 13%;
+    }
+
+    .margin .border {
+        float: none;
+        width: 250px;
+        margin: 20px auto;
+    }
+
+    .text_we {
+        position: static;
+    }
+
+    .fones {
+        float: none;
+        text-align: center;
+    }
+
+    .margin {
+        margin-left: 0;
+        margin-top: 0;
+    }
+
+    .section_main_3, .section_phone {
+        padding: 0 10px;
+    }
+
+    h1 {
+        font-size: 50px;
+    }
+}
+
+@media all and (max-width: 900px) {
+
+    .header_menu {
+        display: none;
+    }
+
+    .header_menu.active {
+        display: block;
+    }
+
+    #menu {
+        display: block;
+    }
+
+    .header_li {
+        width: 100%;
+        display: block;
+        text-align: left;
+    }
+
+    .section_1 .left {
+        float: none;
+        text-align: center;
+    }
+
+    .section_main_1 {
+        margin-left: 0;
+        padding: 0 10px;
+    }
+
+    .container {
+        width: 49%;
+    }
+
+    .section_3 .right {
+        float: none;
+        text-align: center;
+    }
+
+    .section_main_3 {
+        margin-right: 0;
+        min-height: 0;
+    }
+
+    .title_blog p {
+        margin-bottom: 30px;
+    }
+
+    .phone_container {
+        float: none;
+        margin-bottom: 15px;
+        text-align: center;
+    }
+
+    .naby {
+        color: #fff;
+        max-width: 645px;
+        margin: auto;
+        padding-bottom: 30px;
+    }
+
+    .tab_content p {
+        line-height: 24px;
+    }
+
+    .section_4 {
+        text-align: center;
+        padding-bottom: 50px;
+        padding-top: 50px;
+    }
+
+    .section_4 .left {
+        float: none;
+    }
+
+    .section_4_text {
+        margin: auto;
+    }
+
+    h6:before, h6:after {
+        margin: 20px auto;
+    }
+}
+
+@media all and (max-width: 520px) {
+
+    img.over {
+        margin-right: 0;
+    }
+
+    .container {
+        width: 100%;
+    }
+
+}
+
